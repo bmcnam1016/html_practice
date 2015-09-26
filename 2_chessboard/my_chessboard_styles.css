@@ -18,3 +18,26 @@ Note that I've included the background image for the page in this folder, "grey.
 Write your CSS rules below.
 
 */
+
+<style>
+
+body {background-image: url('grey.png')}
+
+.board {border: thick solid blue;
+        margin:36px auto;}
+
+.square {height:72px;
+          width:72px;
+          color:#FF9640;
+          font-size: 48px;
+          text-align: center;
+          text-shadow: ;}
+
+.dark_square {height:72px;
+              width:72px;
+              color:#FF9640;
+              font-size:48px;
+              background-color: blue;
+              text-align: center}
+
+</style>
