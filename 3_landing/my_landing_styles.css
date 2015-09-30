@@ -3,3 +3,8 @@
 /* You can turn it off if you want. (delete or comment it out) */
 
 /* Write your rules below */
+
+.box {color:white;
+      text-align: center;
+      background-color:purple;
+      }
