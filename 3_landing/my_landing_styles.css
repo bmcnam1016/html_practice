@@ -6,8 +6,11 @@
 
 .box {color:white;
       text-align: center;
+      text-decoration: none;
       background-color:purple;
-      border-radius: 10px
+      border-radius: 10px;
       padding:5px;
-      width:100%
-      display:block;}
+      width:100%;
+      display:block;
+      box-shadow: 1px 1px 1px 0 gray
+      }
